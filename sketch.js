@@ -55,7 +55,7 @@ function draw() {
   fill("white");
 
   textSize(12);
-  text("You have 5 chances to increase your score",200,20);
+  text("You have 10 chances to increase your score",200,20);
   fill("white");
   
 
